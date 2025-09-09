@@ -1,18 +1,6 @@
 # 🤖 Side project | A2A & MCP for Agentic system
 
----
 
-## 🎬 우리는 이렇게 일하고 싶지 않아 AI 에이전트를 개발하는 겁니다.
-
-<div align="center">
-
-### 🤖 A2A Agent Communication Demo
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="Agent Communication"/>
-
-### 🧠 MCP Context Processing
-<img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="300" alt="Context Processing"/>
-
-</div>
 
 ---
 
@@ -21,6 +9,22 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+AI+Laboratory+🧪;Building+Intelligent+Agents+🤖;A2A+%26+MCP+Expert+🚀;Side+Project+Innovator+💡)
 
 </div>
+
+---
+
+## 🎬 우리는 이렇게 일하고 싶지 않아 AI 에이전트를 개발하는 겁니다.
+
+<div align="center">
+
+### 🤖 그래도 해야지 어떡해
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="Agent Communication"/>
+
+### 🧠 단 스마트하고 간단하게
+<img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="300" alt="Context Processing"/>
+
+</div>
+
+
 
 ---
 
