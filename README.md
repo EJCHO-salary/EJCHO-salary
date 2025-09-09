@@ -1,5 +1,18 @@
 # 🤖 Side project | A2A & MCP for Agentic system
 
+---
+
+## 🎬 우리는 이렇게 일하고 싶지 않아 AI 에이전트를 개발하는 겁니다.
+
+<div align="center">
+
+### 🤖 A2A Agent Communication Demo
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="Agent Communication"/>
+
+### 🧠 MCP Context Processing
+<img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="300" alt="Context Processing"/>
+
+</div>
 
 ---
 
@@ -59,20 +72,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
----
-
-## 🎬 실시간 개발 데모
-
-<div align="center">
-
-### 🤖 A2A Agent Communication Demo
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="Agent Communication"/>
-
-### 🧠 MCP Context Processing
-<img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="300" alt="Context Processing"/>
 
 </div>
 
