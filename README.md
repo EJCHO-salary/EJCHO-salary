@@ -1,5 +1,8 @@
 # 🤖 Side project | A2A & MCP for Agentic system
 
+
+---
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+AI+Laboratory+🧪;Building+Intelligent+Agents+🤖;A2A+%26+MCP+Expert+🚀;Side+Project+Innovator+💡)
@@ -23,8 +26,6 @@
 ---
 
 ## 🎯 About Me
-
-<img align="right" width="400" src="https://github.com/user-attachments/assets/a76f39b1-c840-450b-9bb2-da53fbb37c96" alt="LMArena 로고"/>
 
 안녕하세요! 저는 **AI 에이전트 개발자**입니다. 🚀
 
