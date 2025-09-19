@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### 🤖 그래도 해야지 어떡해
+### 🤖 그래도 해야지 어떡해 니가다 해야해.
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="Agent Communication"/>
 
 ### 🧠 단 스마트하고 간단하게
